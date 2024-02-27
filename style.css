@@ -1,0 +1,63 @@
+* { /*todo o meu codigo */
+       margin: 0;
+padding:0;  
+
+}
+
+
+header{
+       background-color: red ;
+       color: white;
+       font-family: Arial;
+
+      /* padding é espaçamento interno */
+      padding: 50px;
+
+      /*padding é orçamento interno*/
+      padding: flex;
+
+      /*display é o modo de exibição*/
+      display: flex;
+      /*jcc é o alinhamento horizontal 
+      */
+      justify-content: center;
+
+      /*aic é o alinhamento vertical*/
+      align-items: center;
+}
+
+#logo{ /*o hastag é o ID do elemento */
+       width: 200px;
+
+
+}
+
+#texto{
+   font-size:90px;
+   font-family:georgia, 'times new roman', times, serif;
+}
+
+
+
+   
+nav{
+       background-color: darkorange;
+width: 100%;
+height: 80px;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+/* este codigo tira bolinhas */
+list-style: none;
+
+}
+
+ul{
+
+       
+}
+
+
